@@ -1,3 +1,4 @@
+Acessível via: `http://localhost:8080/swagger-ui.html`
 # Documentação do Projeto
 
 ## Arquitetura em Camadas (Layered Architecture)
