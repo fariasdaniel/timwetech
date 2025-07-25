@@ -6,7 +6,7 @@ src/main/java/com/timwetech/entrevista/\
 ├── config/\
 │   └── OpenApiConfig.java\
 ├── controller/\
-│   └── Controller.java\Controller.java\
+│   └── Controller.java\
 ├── domain/\
 │   ├── entity/\
 │   │   └── Entity.java\
@@ -19,7 +19,7 @@ src/main/java/com/timwetech/entrevista/\
 └── exception/\
 │   └── Handler.java\
 │   └── Exception.java\
-└── Exception.java
+└── Aplication.java
 ## Características Implementadas
 
 ### 1. Arquitetura em Camadas
